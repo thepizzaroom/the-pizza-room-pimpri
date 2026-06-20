@@ -643,34 +643,28 @@ export const MENU_ITEMS: MenuItem[] = [
 
     // ── Maggi ─────────────────────────────────────────────────────────────────
     {
-        id: "mg-my-maggi",
-        name: "My Maggi",
-        category: "maggi",
-        price: 69,
-    },
-    {
         id: "mg-vegetable",
         name: "Vegetable Maggi",
         category: "maggi",
-        price: 79,
+        price: 139,
     },
     {
         id: "mg-italian",
         name: "Italian Maggi",
         category: "maggi",
-        price: 89,
+        price: 139,
     },
     {
         id: "mg-punjabi",
         name: "Punjabi Maggi",
         category: "maggi",
-        price: 89,
+        price: 139,
     },
     {
         id: "mg-punjabi-cheese",
         name: "Punjabi Cheese Maggi",
         category: "maggi",
-        price: 99,
+        price: 139,
     },
     {
         id: "mg-room-special",
